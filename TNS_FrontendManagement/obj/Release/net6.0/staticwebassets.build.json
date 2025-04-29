@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "aczN2wW4jR//BIUUlnAX9aEum2vXO9VueL7tqUbSOms=",
+  "Source": "TNS_FrontendManagement",
+  "BasePath": "_content/TNS_FrontendManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Code\\ThuongMaiDienThu\\TNS_Ecommerce\\TNS_CategoriesManagement\\TNS_CategoriesManagement.csproj",
+      "Version": 2,
+      "Source": "TNS_CategoriesManagement",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

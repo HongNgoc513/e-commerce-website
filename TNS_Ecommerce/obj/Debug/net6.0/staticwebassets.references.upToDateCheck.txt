@@ -1,0 +1,6 @@
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_DangNhap\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Employee\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_GioHang\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Product\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.build.json

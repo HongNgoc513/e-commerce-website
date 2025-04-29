@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DangKy
+build_property.RootNamespace = DangKy
+build_property.ProjectDir = D:\WebsiteEcommerce\TNS_Ecommerce\TNS_DangKy\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\WebsiteEcommerce\TNS_Ecommerce\TNS_DangKy
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/WebsiteEcommerce/TNS_Ecommerce/TNS_DangKy/Areas/DangKy/Pages/TaskToDo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFuZ0t5XFBhZ2VzXFRhc2tUb0RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteEcommerce/TNS_Ecommerce/TNS_DangKy/Areas/DangKy/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFuZ0t5XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebsiteEcommerce/TNS_Ecommerce/TNS_DangKy/Areas/DangKy/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFuZ0t5XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

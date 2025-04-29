@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TNS_ShoppingCard.props" />
+</Project>

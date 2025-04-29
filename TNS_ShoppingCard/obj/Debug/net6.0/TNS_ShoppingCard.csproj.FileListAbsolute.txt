@@ -1,0 +1,70 @@
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.deps.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.AssemblyReference.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfoInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.CoreCompileInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.TNS_ShoppingCard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_ShoppingCard.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_ShoppingCard.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_ShoppingCard.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\scopedcss\bundle\TNS_ShoppingCard.styles.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\refint\TNS_ShoppingCard.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\ref\TNS_ShoppingCard.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.deps.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.AssemblyReference.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfoInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.CoreCompileInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.build.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.development.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.TNS_ShoppingCard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_ShoppingCard.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_ShoppingCard.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_ShoppingCard.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\scopedcss\bundle\TNS_ShoppingCard.styles.css
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\refint\TNS_ShoppingCard.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\ref\TNS_ShoppingCard.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.deps.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\scopedcss\bundle\TNS_ShoppingCard.styles.css
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.TNS_ShoppingCard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.TNS_ShoppingCard.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_ShoppingCard.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_ShoppingCard.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_ShoppingCard.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\refint\TNS_ShoppingCard.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_ShoppingCard\obj\Debug\net6.0\ref\TNS_ShoppingCard.dll

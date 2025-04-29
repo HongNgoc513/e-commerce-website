@@ -1,0 +1,206 @@
+﻿@page
+@model TNS_Part4.Areas.Part4.Pages.TaskToDoModel
+@{
+}
+<style>
+    .tns-field-name {
+        width: 140px;
+    }
+</style>
+<!-- DataTables -->
+<link href="~/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/libs/datatables/css/dataTables.min.css" rel="stylesheet" type="text/css" />
+<div style="width:100%; margin:-20px 0 0 -20px">
+    <div style="padding:5px; font-weight:bold; font-size:13px">
+        <a href="~/Index" style="text-decoration:none; color:#4c4c4c">Home</a>
+        <span class="uil-angle-double-right"></span>
+        <span style="color:maroon">Công việc</span>
+    </div>
+</div>
+<div class="row">
+    <div class="col-12 text-center text-primary" style="font-size:26px; font-weight:bold">
+        DANH SÁCH CÔNG VIỆC THỰC HIỆN
+    </div>
+</div>
+<div class="row mb-2">
+    <div class="col-md-10">
+        <div>
+            <div class="input-group">
+                <input id="txtSearch" type="text" class="form-control w-auto" placeholder="Tìm kiếm" aria-label="Tìm kiếm" aria-describedby="button-addon2">
+                <input id="txtFromDate" class="form-control" type="date">
+                <input id="txtToDate" class="form-control" type="date">
+@*                 <select id="cboStatus" class="form-select w-sm">
+                    <option value="0">Tất cả</option>
+                    @foreach (string[] zItem in Model.Status)
+                    {
+                        <option value="@zItem[0]">@zItem[1]</option>
+                    }
+                </select> *@
+
+                <button class="btn btn-primary" onclick="btn_Search_Click()">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+        <div style="color:maroon; font-weight:bold; padding-left:10px">
+            <div id="Info_View"></div>
+        </div>
+    
+    </div>
+    <div class="col-md-2 text-end">
+        <a href="/Tasks/TaskInfo" class="btn btn-success " role="button" aria-pressed="true"> <i class="uil-file-blank"></i>Tạo mới</a>
+    </div>
+</div>
+
+<div class="row">
+    <table id="LV_Datatable" class="table table-striped table-bordered" style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+        <thead>
+            <tr>
+                <th class="text-center align-middle text-light bg-primary" style="width:80px">STT</th>
+                <th class="text-center text-light align-middle bg-primary" style="width:20px">Mức độ</th>
+                <th class="text-center align-middle text-light bg-primary">Công việc</th>
+                <th class="text-center align-middle text-light bg-primary" style="width:120px">Hình thức </th>
+                <th class="text-center text-light bg-primary" style="width:150px">Thời gian <br />Thực hiện</th>
+                <th class="text-center text-light bg-primary" style="width:100px">Thời gian <br />Còn lại</th>
+                <th class="text-center align-middle text-light bg-primary" style="width:120px">Tiến độ</th>
+            </tr>
+        </thead>
+
+        <tbody id="LV_DataBody">
+        </tbody>
+
+    </table>
+    <div class="row">
+        <div class="col-12 text-end" style="cursor:pointer" onclick="LV_LoadData_More()">More...</div>
+    </div>
+    <div id="LV_Waiting" style="display:none">
+        <div class='text-center'>
+            <div class='spinner-border text-primary m-5' role='status'>
+                <span class='sr-only'>Loading...</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div>
+    <div style="cursor:pointer" onclick="MessageLog_Show()">
+        <i class="uil-apple"></i>
+    </div>
+    <div id="txt_MessageLog" class="row" style="display:none; padding:20px; ">
+    </div>
+
+</div>
+
+<!-- Required datatable js -->
+<script src="~/libs/jquery/jquery.min.js"></script>
+<script src="~/libs/bootstrap/js/bootstrap.min.js"></script>
+<script src="~/libs/datatables/js/dataTables.min.js"></script>
+<script>
+    $(document).ready(function () {
+        LV_LoadData_Ajax();
+    });
+
+    function MessageLog_Show() {
+        $("#txt_MessageLog").css("display", "");
+    }
+</script>
+
+<script>
+    var _DataView;
+    var _PageSize = 25;
+    var _PageNumber = 1;
+
+    function btn_Search_Click() {
+
+        $("#LV_DataBody").html("");
+        _PageNumber = 1;
+        LV_LoadData_Ajax();
+
+    }
+    function LV_LoadData_Ajax() {
+
+        $("#LV_Waiting").css("display", "");
+        var zSearch = $("#txtSearch").val();
+        var zFromDate = $('#txtFromDate').val();
+        var zToDate = $('#txtToDate').val();
+        var zStatusKey = $('#cboStatus').find(":selected").val();
+
+        var zDataRequest = {
+            "Search": zSearch, "statusKey": zStatusKey,
+            "fromDate": zFromDate, "toDate": zToDate,
+            "pageSize": _PageSize, "pageNumber": _PageNumber
+        };
+
+        $.ajax({
+            type: 'POST',
+            url: "/Tasks/TaskToDo?handler=LoadData",
+            data: JSON.stringify(zDataRequest),
+            contentType: "application/json",
+            dataType: "json",
+        })
+            .done(function (dataResponse) {
+                //$("#txt_MessageLog").html(JSON.stringify(dataResponse));
+                _DataView = dataResponse;
+                LV_DisplayData();
+                $("#LV_Waiting").css("display", "none");
+            })
+            .fail(function (error) {
+                alert('Error : ' + error.responseText);
+            });
+    }
+    function LV_DisplayData() {
+        var zStyle_RecordView = "";
+        var zContent = "";
+        var n = 0;
+        if (_DataView != null) {
+            n = _DataView.length;
+            if (_DataView[0][0] == "ERR") {
+                $("#txt_MessageLog").html(_DataView[0][1].name);
+                return;
+            }
+        }
+        // Function to get color based on percentage
+        function getColorByPercentage(percentage) {
+            if (percentage <= 20) return "#FFCCCC"; // Light Red
+            if (percentage <= 40) return "#FFD9B3"; // Light Orange
+            if (percentage <= 60) return "#FFFFCC"; // Light Yellow
+            if (percentage <= 80) return "#CCFFCC"; // Light Green
+            return "#CCE5FF"; // Light Blue
+        }
+        var zNo = 1 + (_PageNumber - 1) * _PageSize;
+        for (i = 0; i < n; i++) {
+            // zContent += "       <tr onclick='EditRecord(\"" + _DataView[i][0] + "\")'" "  style='cursor:pointer'>";
+            // zContent += `<tr onclick='EditRecord("${_DataView[i][0]}")' style='cursor:pointer; background-color: ${bgColor};'>`;
+            let status = _DataView[i][8]; // Assuming status is at index 5
+            let percentage = parseInt(_DataView[i][7], 10); // Assuming percentage is at index 7
+            let bgColor = getColorByPercentage(percentage);
+
+            zContent += `<tr style='cursor:pointer;' onclick='EditRecord("${_DataView[i][0]}")'>`;
+
+            zContent += "           <td style='background-color: " + bgColor + ";'>";
+            zContent += "               <div> " + zNo + " </div>";
+            zContent += "           </td>";
+            zContent += "           <td style='background-color: " + bgColor + ";'><img src='/images/Priority_" + _DataView[i][1] + ".png'></td>";
+            zContent += "           <td style='background-color: " + bgColor + ";'>" + _DataView[i][2] + "</td>";
+            zContent += "           <td style='background-color: " + bgColor + ";'>" + _DataView[i][3] + "</td>";
+            zContent += "           <td style='background-color: " + bgColor + ";'>" + _DataView[i][4] + "</td>";
+            zContent += "           <td style='background-color: " + bgColor + ";'>" + _DataView[i][6] + "</td>";
+            zContent += "           <td class='text-center' style='background-color: " + bgColor + ";'>" + _DataView[i][7] + "%</td>";
+            zContent += "       </tr>";
+            zNo++;
+        }
+        var zDataCurrent = $("#LV_DataBody").html();
+        $("#LV_DataBody").html(zDataCurrent + zContent);
+    }
+</script>
+<script>
+    function EditRecord(TaskKey) {
+        zUrl = "/Tasks/TaskInfo?key=" + TaskKey;
+        window.location = zUrl;
+    }
+    function LV_LoadData_More() {
+        _PageNumber++;
+        LV_LoadData_Ajax();
+    }
+</script>

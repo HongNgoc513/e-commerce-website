@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TNS_Ecommerce
+build_property.RootNamespace = TNS_Ecommerce
+build_property.ProjectDir = C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Account/SignedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduZWRPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Guide/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VpZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Guide/Watching.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3VpZGVcV2F0Y2hpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Reports/Personal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0c1xQZXJzb25hbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/OneDrive - nhg.vn/Desktop/TNS_Ecommerce/TNS_Ecommerce/TNS_Ecommerce/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9rv49cnw3q

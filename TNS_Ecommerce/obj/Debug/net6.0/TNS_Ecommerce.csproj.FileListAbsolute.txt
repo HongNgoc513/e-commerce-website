@@ -1,0 +1,226 @@
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\appsettings.Development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\appsettings.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.staticwebassets.runtime.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.exe
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.deps.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.runtimeconfig.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS.DBConnection.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Part1.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS.DBConnection.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\bin\Debug\net6.0\TNS_Part1.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.csproj.AssemblyReference.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfoInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\scopedcss\bundle\TNS_Ecommerce.styles.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\scopedcss\projectbundle\TNS_Ecommerce.bundle.scp.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecom.2F1F7F47.Up2Date
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\refint\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\TNS_Ecommerce.genruntimeconfig.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_TOEIC\obj\Debug\net6.0\ref\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.staticwebassets.runtime.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.exe
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.deps.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.runtimeconfig.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.AssemblyReference.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfoInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_Ecommerce.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\bundle\TNS_Ecommerce.styles.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\projectbundle\TNS_Ecommerce.bundle.scp.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecom.2F1F7F47.Up2Date
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\refint\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.genruntimeconfig.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\ref\TNS_Ecommerce.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_CategoriesManagement.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_FrontendManagement.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_FrontendManagement.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_CategoriesManagement.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.Development.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.staticwebassets.runtime.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.exe
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.deps.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.runtimeconfig.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.AssemblyReference.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfoInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.CoreCompileInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_Ecommerce.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_Ecommerce.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_Ecommerce.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\bundle\TNS_Ecommerce.styles.css
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\projectbundle\TNS_Ecommerce.bundle.scp.css
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecom.2F1F7F47.Up2Date
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\refint\TNS_Ecommerce.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.genruntimeconfig.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\ref\TNS_Ecommerce.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.exe
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.deps.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.runtimeconfig.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\ChiTietSanPham.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.Auth.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS.DBConnection.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\DangNhap.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Employee.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_GioHang.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_Product.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\bin\Debug\net6.0\TNS_ShoppingCard.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\bundle\TNS_Ecommerce.styles.css
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\scopedcss\projectbundle\TNS_Ecommerce.bundle.scp.css
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.TNS_Ecommerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.TNS_Ecommerce.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TNS_Ecommerce.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TNS_Ecommerce.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecom.2F1F7F47.Up2Date
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\refint\TNS_Ecommerce.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\TNS_Ecommerce.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\TNS_Ecommerce\obj\Debug\net6.0\ref\TNS_Ecommerce.dll

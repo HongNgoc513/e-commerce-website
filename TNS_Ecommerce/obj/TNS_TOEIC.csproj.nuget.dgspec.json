@@ -1,0 +1,704 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_TOEIC\\TNS_TOEIC.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj",
+        "projectName": "TNS.DBConnection",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\TNS_Part1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\TNS_Part1.csproj",
+        "projectName": "TNS_Part1",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\TNS_Part1.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj",
+        "projectName": "TNS_Part2",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj",
+        "projectName": "TNS_Part3",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\TNS_Part4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\TNS_Part4.csproj",
+        "projectName": "TNS_Part4",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\TNS_Part4.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\TNS_Part5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\TNS_Part5.csproj",
+        "projectName": "TNS_Part5",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\TNS_Part5.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj",
+        "projectName": "TNS_Part6",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\TNS_Part7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\TNS_Part7.csproj",
+        "projectName": "TNS_Part7",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\TNS_Part7.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_TOEIC\\TNS_TOEIC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_TOEIC\\TNS_TOEIC.csproj",
+        "projectName": "TNS_TOEIC",
+        "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_TOEIC\\TNS_TOEIC.csproj",
+        "packagesPath": "C:\\Users\\Shenk\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_TOEIC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shenk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS.DBConnection\\TNS.DBConnection.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\TNS_Part1.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part1\\TNS_Part1.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part2\\TNS_Part2.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part3\\TNS_Part3.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\TNS_Part4.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part4\\TNS_Part4.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\TNS_Part5.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part5\\TNS_Part5.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part6\\TNS_Part6.csproj"
+              },
+              "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\TNS_Part7.csproj": {
+                "projectPath": "C:\\Code\\ThuongMaiDienThu\\TNS_TOEIC\\TNS_Part7\\TNS_Part7.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

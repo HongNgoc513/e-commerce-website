@@ -1,0 +1,104 @@
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.AssemblyReference.cache
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfoInputs.cache
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfo.cs
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.CoreCompileInputs.cache
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cache
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cs
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.deps.json
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.dll
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.pdb
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.dll
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.pdb
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.ChiTietSanPham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.build.ChiTietSanPham.props
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChiTietSanPham.props
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChiTietSanPham.props
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\scopedcss\bundle\ChiTietSanPham.styles.css
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietS.848AD399.Up2Date
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.dll
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\refint\ChiTietSanPham.dll
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.pdb
+D:\WebsiteEcommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ref\ChiTietSanPham.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.deps.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.AssemblyReference.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfoInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.CoreCompileInputs.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cache
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cs
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.development.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.ChiTietSanPham.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.build.ChiTietSanPham.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChiTietSanPham.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChiTietSanPham.props
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\scopedcss\bundle\ChiTietSanPham.styles.css
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietS.848AD399.Up2Date
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\refint\ChiTietSanPham.dll
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.pdb
+C:\Code\ThuongMaiDienThu\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ref\ChiTietSanPham.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.deps.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.AssemblyReference.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfoInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.CoreCompileInputs.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cache
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cs
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.development.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.ChiTietSanPham.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.build.ChiTietSanPham.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChiTietSanPham.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChiTietSanPham.props
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\scopedcss\bundle\ChiTietSanPham.styles.css
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietS.848AD399.Up2Date
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\refint\ChiTietSanPham.dll
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.pdb
+D:\dTOM_USER\SourceCode\Companies\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ref\ChiTietSanPham.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.deps.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\ChiTietSanPham.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\bin\Debug\net6.0\TNS.DBConnection.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\scopedcss\bundle\ChiTietSanPham.styles.css
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.ChiTietSanPham.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.ChiTietSanPham.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.build.ChiTietSanPham.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChiTietSanPham.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChiTietSanPham.props
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietS.848AD399.Up2Date
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\refint\ChiTietSanPham.dll
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ChiTietSanPham.pdb
+C:\Users\ASUS\OneDrive - nhg.vn\Desktop\TNS_Ecommerce\TNS_Ecommerce\ChiTietSanPham\obj\Debug\net6.0\ref\ChiTietSanPham.dll
